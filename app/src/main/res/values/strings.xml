@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Tmdb Explorer</string>
+    <!--Movie listing screen-->
+    <string name="menu_movie">Movie</string>
+    <string name="search_hint">Search movie here!</string>
+
+    <!--Movie Detail screen-->
+    <string name="transition_profile">transition_profile</string>
+    <string name="releasing_year_txt">Releasing Year :</string>
+    <string name="overview_txt">Overview</string>
+    <string name="releasing_date_txt">Release Date :</string>
+    <string name="vote_txt">Vote Count :</string>
+    <string name="revenue_txt">Revenue :</string>
+    <string name="duration_txt">Run Time :</string>
+    <string name="null_duration_txt">Duration Information for this movie is not available in Api Response</string>
+    <string name="null_revenue_txt">Revenue Information for this movie is not available in Api Response</string>
+
+    <!--ExitDialogue-->
+    <string name="exit_title_txt">Exit</string>
+    <string name="exit_message_txt">Are you sure you want to exit the app?</string>
+    <string name="exit_positive_btn_txt">Yes</string>
+    <string name="exit_negative_btn_txt">Cancel</string>
+
+</resources>
